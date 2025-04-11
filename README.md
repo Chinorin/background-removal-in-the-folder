@@ -18,7 +18,7 @@ Built with [rembg](https://github.com/danielgatis/rembg), `tkinter`, and `Pillow
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="project_preview.png" width="500" alt="Preview Image">
+  <img src="project_preview.PNG" width="500" alt="Preview Image">
 </p>
 
 
